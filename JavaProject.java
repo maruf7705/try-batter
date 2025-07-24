@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class JavaProject {
-    public static void main(String[] args){
+    public static void main(StringLearn[] args){
         int Value1, Value2, Total;
         System.out.print("Please Enter the value");
         Scanner Fristvalue = new Scanner(System.in);

@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 class HelloWorld{
-    public static void main(String[] args){
+    public static void main(StringLearn[] args){
         System.out.print("We should we call you ");
         // Scanner UserInput = new Scanner(System.in);
         Scanner MarufInput = new Scanner(System.in);

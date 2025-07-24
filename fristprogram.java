@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class fristprogram {
-    public static void main(String[] args){
+    public static void main(StringLearn[] args){
         System.out.print("How old are you ?");
         Scanner UserAge = new Scanner(System.in);
         int Age = UserAge.nextInt();
