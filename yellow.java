@@ -17,14 +17,14 @@ public class yellow {
         // int math = 40;
         // int eng =50;
         // int physics = 40;
-        int[] marks = {90,49,49,3943,3903};
+        int[] marks = {90,49,49,58,3903};
         // marks[0] = 80;
         // marks[1] = 77;
         // marks[2] = 81;
         // marks[3] = 100;
-        System.out.println(marks[0]);
-        Arrays.sort(marks);
-        System.out.println(marks[0]);
+        System.out.println(marks[3]);
+        // Arrays.sort(marks);
+        // System.out.println(marks[0]);
     }
     }
     
