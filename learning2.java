@@ -7,6 +7,10 @@ public class learning2 {
         int pr = 100;
         int fpr = pr+(int)18.011;
         System.out.println(fpr);
+        // float pi = 3.14F;
+        final float pi = 3.14F;
+        System.out.println(pi);
+
 
     }
     
