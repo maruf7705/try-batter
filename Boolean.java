@@ -23,7 +23,7 @@ public class Boolean {
         if (A<50 && B<50)
         System.out.println("Both less than 50");
         else
-        System.out.println("Both are not less than 50");
+        System.out.println("Both are not less; than 50");
         //// END
         
         int A1 = 60;
