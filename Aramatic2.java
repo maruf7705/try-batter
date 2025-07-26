@@ -5,7 +5,12 @@ public class Aramatic2 {
         double a = 5;
         double b = 3;
         double module = a%b;
-        System.out.println(module);
+        // System.out.println(module);
+
+        int numb = 1;
+
+        System.out.println(++numb);
+        System.out.println(--numb);
 
     }
     
