@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CST_3Study{
+public class CST_4Study{
     public static void main(String[]args){
         // int c;
         Scanner c = new Scanner(System.in);
